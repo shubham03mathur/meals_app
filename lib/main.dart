@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Daily Meal',
       theme: ThemeData(
-        primarySwatch: Colors.pink,
+        primarySwatch: Colors.deepOrange,
         accentColor: Colors.amber,
         canvasColor: Color.fromRGBO(255, 254, 229, 1),
         visualDensity: VisualDensity.adaptivePlatformDensity,
